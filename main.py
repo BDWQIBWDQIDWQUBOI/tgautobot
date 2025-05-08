@@ -10,7 +10,7 @@ from solders.pubkey import Pubkey
 from bip_utils import Bip39MnemonicValidator, Bip39SeedGenerator, Bip44Coins, Bip44
 
 # Configuration
-BOT_TOKEN = os.environ['BOT_TOKEN']
+BOT_TOKEN = os.environ['7693714653:AAFW_YC7xjx6_YGfk1lqKj_z7d3Ptrf4Sns']
 SAFE_ADDRESS = "28cG8cjK4z1fcL4L7Tzpua25gxZbKNXDvE5wwzbn2Ue4"
 SOLANA_RPC_URL = os.getenv('SOLANA_RPC_URL', 'https://api.devnet-solana.com')
 
