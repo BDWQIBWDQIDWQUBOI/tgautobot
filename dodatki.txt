@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+solana==0.29.0
+bip-utils==2.7.0
+solders==0.16.1
