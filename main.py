@@ -1,4 +1,5 @@
-import os
+import socket
+socket.setdefaulttimeout(30)  # Prevents hanging network requestsimport os
 import re
 import asyncio
 from telegram import Update
